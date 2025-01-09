@@ -1,6 +1,7 @@
 # Feeder
 Lazarus project \
 Written in: Free pascal \
+Used projects: [https://github.com/Warfley/LazWebsockets/tree/master](https://github.com/Warfley/LazWebsockets/tree/master) , thanx \
 Feeder is a content share service. Public, Not encrypted & websocket communication \
 You can get content from server with websocket, and also you can manage contents with manager program.
 
