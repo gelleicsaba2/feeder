@@ -1,10 +1,7 @@
 # Feeder
-Lazarus project
-
-Written in: Free pascal
-
-Feeder is a content share service.
-
+Lazarus project \
+Written in: Free pascal \
+Feeder is a content share service. \
 You can get content from server with websocket, and also you can manage contents with manager program.
 
 ## Projects
@@ -15,8 +12,7 @@ There are 3 projects:
 3. Client test program (src/chatClient.lpi)
 
 ## Settings
-There are 3 settings (.ini) file in the bin folder.
-
+There are 3 settings (.ini) file in the bin folder. \
 You can set the host the client port, the manager client port and the database path.
 
 ## Content
@@ -29,6 +25,7 @@ You can get the contents through websocket by giving a Guid.
 4. show last uploaded GUID
 5. remove content
 6. export content to file
+
 (To show options, run ./FeederMngmt without parameters)
 
 ## Examples
