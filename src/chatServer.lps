@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="chatServer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="14" Y="281"/>
+        <UsageCount Value="71"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../lib/LazWebsockets/websocketserver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="WebSocketServer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="3" Y="75"/>
+        <UsageCount Value="68"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../lib/LazWebsockets/wsmessages.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="68"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../lib/LazWebsockets/wsstream.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="68"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../lib/LazWebsockets/wsutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="68"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="serversettingsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="serverSettingsUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="58" Y="33"/>
+        <UsageCount Value="58"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../lib/fileservicesunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="fileServicesUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="23" Y="15"/>
+        <UsageCount Value="49"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../bin/server.ini"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="40"/>
+        <DefaultSyntaxHighlighter Value="Ini"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="contentmapunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ContentMapUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="31" Y="15"/>
+        <UsageCount Value="38"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../bin/contents/keys.txt"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="35"/>
+        <DefaultSyntaxHighlighter Value="Text"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../bin/config.ini"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="7"/>
+        <UsageCount Value="31"/>
+        <DefaultSyntaxHighlighter Value="Ini"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../lib/fileservices.pas"/>
+        <UnitName Value="fileServicesUnit"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="17"/>
+        <UsageCount Value="37"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../lib/LazWebsockets/websocketsclient.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="17"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="websocketserver.pas"/>
+        <UnitName Value="WebSocketServer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="147"/>
+        <CursorPos X="15" Y="88"/>
+        <UsageCount Value="20"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="wsmessages.pas"/>
+        <UsageCount Value="20"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="wsstream.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="939"/>
+        <CursorPos Y="832"/>
+        <UsageCount Value="20"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="wsutils.pas"/>
+        <UsageCount Value="20"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../lib/StringBuilderUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="129"/>
+        <UsageCount Value="17"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../../fpcupdeluxe/fpcsrc/rtl/objpas/sysutils/finah.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="23"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="mypackage.unita.pas"/>
+        <UnitName Value="mypackage.unitA"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="20"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../../../fpcupdeluxe/fpcsrc/packages/rtl-generics/src/inc/generics.dictionariesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="244"/>
+        <CursorPos X="15" Y="260"/>
+        <UsageCount Value="9"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="209" Column="8" TopLine="204"/>
+      </Position1>
+      <Position2>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="231" Column="10" TopLine="219"/>
+      </Position2>
+      <Position3>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="274" TopLine="250"/>
+      </Position3>
+      <Position4>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="243" TopLine="235"/>
+      </Position4>
+      <Position5>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="265" TopLine="237"/>
+      </Position5>
+      <Position6>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="255" Column="22" TopLine="239"/>
+      </Position6>
+      <Position7>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="chatServer.pas"/>
+        <Caret Line="17"/>
+      </Position8>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="management.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="270"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="43"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../lib/LazWebsockets/websocketsclient.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="43"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../lib/LazWebsockets/wsmessages.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="43"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../lib/LazWebsockets/wsstream.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="520"/>
+        <CursorPos Y="239"/>
+        <UsageCount Value="43"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../lib/LazWebsockets/wsutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="43"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="mngsettingsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="12"/>
+        <UsageCount Value="43"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../bin/mngmt.ini"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Ini"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../bin/client.ini"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Ini"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="clientsettingsunit.pas"/>
+        <UsageCount Value="18"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="chatClient.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="18"/>
+      </Unit9>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
