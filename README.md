@@ -1,7 +1,7 @@
 # Feeder
 Lazarus project \
 Written in: Free pascal \
-Feeder is a content share service. \
+Feeder is a content share service. Public, Not encrypted & websocket communication \
 You can get content from server with websocket, and also you can manage contents with manager program.
 
 ## Projects
@@ -37,3 +37,8 @@ You can get the contents through websocket by giving a Guid.
 
 ./FeederMngmt show (content guid)
 ```
+
+# For the security
+There isn't any authentication method to connect to the server. \
+In the firewall settings you can set the manager client port (outgoing/ip addresses, etc..).
+
