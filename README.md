@@ -43,3 +43,5 @@ You can get the contents through websocket by giving a Guid.
 There isn't any authentication method to connect to the server. \
 In the firewall settings you can set the manager client port (outgoing/ip addresses, etc..).
 
+## Test in html page
+You can test the service in a html page with bin/webtest.html.
