@@ -47,3 +47,4 @@ In the firewall settings you can set the manager client port (outgoing/ip addres
 You can test the service in a html page with bin/webtest.html.
 
 --
+--
